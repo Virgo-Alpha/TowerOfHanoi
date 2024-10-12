@@ -53,14 +53,3 @@ If you have ideas for new features or improvements, feel free to open an issue t
 ## Thank You!
 We appreciate your willingness to contribute and help improve the Tower of Hanoi project. Your contributions are what make this project better!
 ```
-
-### Key Points to Include
-- **Forking and Cloning**: Instructs users on how to create their own copy of the repository.
-- **Branching**: Emphasizes the importance of using branches for new features or fixes.
-- **Commit Guidelines**: Encourages descriptive commit messages for clarity.
-- **Testing**: Ensures code quality and functionality.
-- **Pull Requests**: Guides users on how to submit their changes for review.
-- **Issue Reporting**: Directs users on how to report bugs and suggest features.
-- **Code of Conduct**: Reminds contributors about the community standards expected.
-
-Feel free to customize this template to better fit your project’s specific needs and preferences!
