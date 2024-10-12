@@ -34,7 +34,8 @@ Tail recursion is a specific kind of recursion where the recursive call is the l
 - **Pause and Stop Functionality**: Users can pause or stop the simulation at any time.
 
 ### Screenshots
-![Running App Screenshot](path/to/screenshot.png)  
+  ![Screenshot from 2024-10-12 16-03-44](https://github.com/user-attachments/assets/1c623993-c6f4-4a4b-965b-45f03367da95)
+
 *Caption: The Tower of Hanoi application in action, illustrating the movement of discs.*
 
 ## Usage of Tkinter
