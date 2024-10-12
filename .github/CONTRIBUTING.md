@@ -1,6 +1,3 @@
-### CONTRIBUTING.md
-
-```markdown
 # Contributing to Tower of Hanoi
 
 Thank you for your interest in contributing to the Tower of Hanoi project! We welcome contributions of all kinds, whether it's bug fixes, new features, or enhancements to the documentation. 
