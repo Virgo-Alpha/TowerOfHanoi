@@ -45,7 +45,7 @@ Go to the original repository and create a pull request from your fork. Provide 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). 
 
 ## Reporting Issues
-If you encounter any bugs or issues, please report them in the [Issues section](https://github.com/your-username/TowerOfHanoi/issues) of the repository. Be sure to provide as much detail as possible, including steps to reproduce the issue.
+If you encounter any bugs or issues, please report them in the [Issues section](https://github.com/Virgo-Alpha/TowerOfHanoi/issues) of the repository. Be sure to provide as much detail as possible, including steps to reproduce the issue.
 
 ## Suggestions for Enhancements
 If you have ideas for new features or improvements, feel free to open an issue to discuss your ideas before starting to work on them. This helps us align on priorities and prevents duplicated efforts.
