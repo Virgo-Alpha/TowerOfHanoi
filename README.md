@@ -40,5 +40,3 @@ Tail recursion is a specific kind of recursion where the recursive call is the l
 
 ## Usage of Tkinter
 Tkinter is the standard GUI toolkit for Python and is used to create the visual interface of this application. The application features a canvas for drawing the pegs and discs, alongside control buttons for managing the simulation.
-
-## License
